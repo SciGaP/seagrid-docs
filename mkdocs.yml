@@ -1,4 +1,4 @@
 site_name: SEAGrid Documentation
 docs_dir: .
-theme: readthedocs
+theme: amelia
 google_analytics: ['UA-69551110-1', 'seagrid.org']
